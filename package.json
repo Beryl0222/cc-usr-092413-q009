@@ -1,0 +1,7 @@
+{
+  "name": "responsible-consumer-credit",
+  "private": true,
+  "scripts": {
+    "test": "node test_service.js"
+  }
+}
