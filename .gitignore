@@ -10,3 +10,6 @@ coverage/
 __pycache__/
 *.py[cod]
 .DS_Store
+
+# 协商承诺账本事件日志（运行时数据）
+data/
